@@ -1,8 +1,8 @@
 
 <h1 align="center">👋 Hi, I'm Leander Pius Mascernahs</h1>
-<h3 align="center">🤖 RPA Developer from India, passionate about automating business processes and building scalable automation solutions.  
+<h4 align="center">🤖 RPA Developer from India, passionate about automating business processes and building scalable automation solutions.  
 🌱 Currently exploring advanced RPA frameworks, Python scripting, and full-stack automation.  
-</h3>
+</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyothish9988&label=Profile%20views&color=0e75b6&style=flat" alt="jyothish9988" /> </p>
 <h2 align="center">My Tech Stack</h2>
@@ -108,9 +108,7 @@ g" alt="Laravel" width="40" height="40"/>
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at )
-
-- 💬 Ask me about **Smarty Laravel Frappe Django**
+- 💬 Ask me about **RPA**
 
 - 📫 How to reach me **Leanderpius99@gmail.com**
 
