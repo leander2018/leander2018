@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Leander Pius Mascernahs</h1>
-<h3 align="center">🤖 RPA Developer from India, passionate about automating business processes and building scalable automation solutions.Currently exploring advanced RPA frameworks, AI / ML , Agentic Automation.
-</h3>
+<h5 align="center">🤖 RPA Developer from India, passionate about automating business processes and building scalable automation solutions.
+</h5>
 <br><br>
 
 <h2 align="center">My Tech Stack</h2>
@@ -44,15 +44,15 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
 <br><br>
-<p>
+
   
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently exploring advanced RPA frameworks, AI / ML , Agentic Automation.
 
 - 💬 Ask me about **RPA**
 
 - 📫 How to reach me **Leanderpius99@gmail.com**
 
-</p>
+
 
 <!-- Add this to your README.md file -->
 <!-- Add this to your README.md file -->
