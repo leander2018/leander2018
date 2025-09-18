@@ -1,14 +1,13 @@
-
 <h1 align="center">👋 Hi, I'm Leander Pius Mascernahs</h1>
 <h4 align="center">🤖 RPA Developer from India, passionate about automating business processes and building scalable automation solutions.  
 Currently exploring advanced RPA frameworks, Python scripting, and AI / ML.  
 </h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jyothish9988&label=Profile%20views&color=0e75b6&style=flat" alt="jyothish9988" /> </p>
+
 <h2 align="center">My Tech Stack</h2>
 <p align="center">
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/your-repo/icons/master/automation_anywhere_logo.png" alt="Automation Anywhere" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/>
