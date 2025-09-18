@@ -7,7 +7,7 @@ Currently exploring advanced RPA frameworks, Python scripting, and AI / ML.
 <h2 align="center">My Tech Stack</h2>
 <p align="center">
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/leander2018/leander2018/blob/main/Icons/automation-anywhere-vector-logo-2022.png" alt="Automation Anywhere" width="40" height="40"/>
+    <img src="https://github.com/leander2018/leander2018/blob/main/Icons/automation-anywhere-vector-logo-2022.png" alt="Automation Anywhere" width="50" height="50"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
