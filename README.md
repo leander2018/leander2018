@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm LEANDER PIUS MASCERNAHS</h1>
 <h4 align="center">🤖 RPA Developer from India, passionate about automating business processes and building scalable automation solutions.
 </h4>
-<br><br>
+<br>
 
 <h2 align="center">My Tech Stack</h2>
 <p align="center">
@@ -46,7 +46,7 @@
 <br><br>
 
   
-- 🌱 I’m currently exploring advanced RPA frameworks, AI / ML , Agentic Automation.
+- 🌱 I’m currently exploring advanced **RPA frameworks, AI / ML , Agentic Automation**
 
 - 💬 Ask me about **RPA**
 
