@@ -1,8 +1,7 @@
 <h1 align="center">👋 Hi, I'm Leander Pius Mascernahs</h1>
-<h5 align="center">🤖 RPA Developer from India, passionate about automating business processes and building scalable automation solutions.  
-Currently exploring advanced RPA frameworks, Python scripting, and AI / ML.  
-</h5>
-
+<h3 align="center">🤖 RPA Developer from India, passionate about automating business processes and building scalable automation solutions.Currently exploring advanced RPA frameworks, AI / ML , Agentic Automation.
+</h3>
+<br><br>
 
 <h2 align="center">My Tech Stack</h2>
 <p align="center">
@@ -46,6 +45,7 @@ Currently exploring advanced RPA frameworks, Python scripting, and AI / ML.
   </a>
 <br><br>
 <p>
+  
 - 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **RPA**
