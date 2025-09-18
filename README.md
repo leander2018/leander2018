@@ -1,13 +1,13 @@
 <h1 align="center">👋 Hi, I'm Leander Pius Mascernahs</h1>
-<h4 align="center">🤖 RPA Developer from India, passionate about automating business processes and building scalable automation solutions.  
+<h5 align="center">🤖 RPA Developer from India, passionate about automating business processes and building scalable automation solutions.  
 Currently exploring advanced RPA frameworks, Python scripting, and AI / ML.  
-</h4>
+</h5>
 
 
 <h2 align="center">My Tech Stack</h2>
 <p align="center">
   <a href="https://www.automationanywhere.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/leander2018/leander2018/blob/main/Icons/automation-anywhere-vector-logo-2022.png" alt="Automation Anywhere" width="60" height="60"/>
+    <img src="https://github.com/leander2018/leander2018/blob/main/Icons/automation-anywhere-vector-logo-2022.png" alt="Automation Anywhere" width="80" height="80"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
