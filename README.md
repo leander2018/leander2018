@@ -44,19 +44,15 @@ Currently exploring advanced RPA frameworks, Python scripting, and AI / ML.
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
-<br>
-  
-
-  
-
-
+<br><br>
+<p>
 - 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **RPA**
 
 - 📫 How to reach me **Leanderpius99@gmail.com**
 
-
+</p>
 
 <!-- Add this to your README.md file -->
 <!-- Add this to your README.md file -->
