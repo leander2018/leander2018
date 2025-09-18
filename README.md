@@ -1,7 +1,7 @@
 
 <h1 align="center">👋 Hi, I'm Leander Pius Mascernahs</h1>
 <h4 align="center">🤖 RPA Developer from India, passionate about automating business processes and building scalable automation solutions.  
-🌱 Currently exploring advanced RPA frameworks, Python scripting, and full-stack automation.  
+Currently exploring advanced RPA frameworks, Python scripting, and AI / ML.  
 </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyothish9988&label=Profile%20views&color=0e75b6&style=flat" alt="jyothish9988" /> </p>
